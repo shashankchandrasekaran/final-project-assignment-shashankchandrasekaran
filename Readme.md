@@ -1,2 +1,2 @@
 # final-project-assignment-shashankchandrasekaran
-AESD Final Project "Home Security System"
+AESD Final Project "PiSecure: A Smart Home Security System"
